@@ -21,27 +21,38 @@
 ---
 
 ## 🛠️ **Tech Stack**
-<p>
-  <img src="c++.png"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=sqlite&logoColor=white"/>
+
+<p align="center">
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/c++.png" alt="C++" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/c#.jpg" alt="C#" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  
+  <!-- Dart -->
+  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/dart.png" alt="Dart" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/python.png" alt="Python" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  
+  <!-- Flutter -->
+  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/flutter.jpg" alt="Flutter" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  
+  <!-- .NET -->
+  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/.net.png" alt=".NET" width="50" height="50" style="border-radius: 10px; margin: 5px;">
 </p>
 
----
-
 ## 📫 **Connect with Me**
-<p>
-  <a href="https://www.linkedin.com/in/afiamaham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/AfiaMaham" target="_blank">
+    <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/linkedin.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
   </a>
-  <a href="mailto:afiamaham08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/AfiaMaham" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  
+  <!-- Gmail -->
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/gmail.jpg" alt="Gmail" width="50" height="50" style="border-radius: 50%; margin: 5px;">
   </a>
 </p>
 

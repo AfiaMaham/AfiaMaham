@@ -24,35 +24,35 @@
 
 <p align="center">
   <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/c++.png" alt="C++" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src="c++.png" alt="C++" width="50" height="50" style="border-radius: 10px; margin: 5px;">
   
   <!-- C# -->
-  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/c#.jpg" alt="C#" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src="c#.jpg" alt="C#" width="50" height="50" style="border-radius: 10px; margin: 5px;">
   
   <!-- Dart -->
-  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/dart.png" alt="Dart" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src="dart.png" alt="Dart" width="50" height="50" style="border-radius: 10px; margin: 5px;">
   
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/python.png" alt="Python" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src="python.png" alt="Python" width="50" height="50" style="border-radius: 10px; margin: 5px;">
   
   <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/flutter.jpg" alt="Flutter" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src="flutter.jpg" alt="Flutter" width="50" height="50" style="border-radius: 10px; margin: 5px;">
   
   <!-- .NET -->
-  <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/.net.png" alt=".NET" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src=".net.png" alt=".NET" width="50" height="50" style="border-radius: 10px; margin: 5px;">
 </p>
 
 ## 📫 **Connect with Me**
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/AfiaMaham" target="_blank">
-    <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/linkedin.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+  <a href="https://www.linkedin.com/in/afiamaham/" target="_blank">
+    <img src="linkedin.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/AfiaMaham/RepoName/main/gmail.jpg" alt="Gmail" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+  <a href="mailto:afiamaham08@gmail.com" target="_blank">
+    <img src="gmail.jpg" alt="Gmail" width="50" height="50" style="border-radius: 50%; margin: 5px;">
   </a>
 </p>
 

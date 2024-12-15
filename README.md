@@ -22,9 +22,9 @@
 
 ## 🛠️ **Tech Stack**
 
-<p align="center">
+<p align="left">
   <!-- C++ -->
-  <img src="c++.png" alt="C++" width="50" height="50" style="border-radius: 10px; margin: 5px;">
+  <img src="c++.png" alt="C++" width="60" height="50" style="border-radius: 10px; margin: 5px;">
   
   <!-- C# -->
   <img src="c#.jpg" alt="C#" width="50" height="50" style="border-radius: 10px; margin: 5px;">
@@ -44,7 +44,7 @@
 
 ## 📫 **Connect with Me**
 
-<p align="center">
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/afiamaham/" target="_blank">
     <img src="linkedin.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">

@@ -27,15 +27,10 @@
 
 ## 📫 **Connect with Me**
 
-<a href="https://www.linkedin.com/in/afiamaham/">
-    ![Linkedin: Afia Maham](https://img.shields.io/badge/-AfiaMaham-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
+[![LinkedIn: Afia Maham](https://img.shields.io/badge/-AfiaMaham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afiamaham/)
 
-  
-  <!-- Gmail -->
-  <a href="mailto:afiamaham08@gmail.com">
-    ![Gmail](https://img.shields.io/badge/-afiamaham08@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)
-</a>
+[![Gmail](https://img.shields.io/badge/-afiamaham08@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:afiamaham08@gmail.com)
+
 
 </p>
 

@@ -47,23 +47,24 @@
 <p align="center">
     <a href="https://github.com/AfiaMaham">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfiaMaham&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AfiaMaham&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/AfiaMaham">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AfiaMaham&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
-
- <p align="center">
-   <a href="https://github.com/AfiaMaham"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AfiaMaham&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
- </p>
+<p align="center">
+    <a href="https://github.com/AfiaMaham"> 
+        <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AfiaMaham&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+    </a>  
+</p>
 
 <br>
 #
 
-<!-- <div align="center">
-  <a href="https://github.com/AfiaMaham">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-  </a>
- </div> -->
+
+
+

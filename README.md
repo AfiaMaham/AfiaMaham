@@ -27,6 +27,7 @@
 
 ## 📫 **Connect with Me**
 
+&emsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/afiamaham/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:afiamaham08@gmail.com)
 

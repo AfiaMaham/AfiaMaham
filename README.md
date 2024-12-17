@@ -27,10 +27,8 @@
 
 ## 📫 **Connect with Me**
 
-[![LinkedIn: Afia Maham](https://img.shields.io/badge/-AfiaMaham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afiamaham/)
-
-[![Gmail](https://img.shields.io/badge/-afiamaham08@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:afiamaham08@gmail.com)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/afiamaham/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:afiamaham08@gmail.com)
 
 </p>
 

@@ -44,15 +44,15 @@
 
 ## 📫 **Connect with Me**
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/afiamaham/" target="_blank">
-    <img src="linkedIn.png" alt="LinkedIn" width="75" height="75" style="border-radius: 100%; margin: 5px;">
+    <img src="linkedIn.png" alt="LinkedIn" width="75" height="75" style="border-radius: 50%;">
   </a>
   
   <!-- Gmail -->
   <a href="mailto:afiamaham08@gmail.com" target="_blank">
-    <img src="gmail.png" alt="Gmail" width="80" height="50" style="border-radius: 100%; margin: 5px;">
+    <img src="gmail.png" alt="Gmail" width="75" height="75" style="border-radius: 50%;">
   </a>
 </p>
 

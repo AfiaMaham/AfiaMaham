@@ -22,25 +22,8 @@
 
 ## 🛠️ **Tech Stack**
 
-<p align="left">
-  <!-- C++ -->
-  <img src="c++.png" alt="C++" width="60" height="50" style="border-radius: 10px; margin: 5px;">
-  
-  <!-- C# -->
-  <img src="c#.jpg" alt="C#" width="50" height="50" style="border-radius: 10px; margin: 5px;">
-  
-  <!-- Dart -->
-  <img src="dart.png" alt="Dart" width="50" height="50" style="border-radius: 10px; margin: 5px;">
-  
-  <!-- Python -->
-  <img src="python.png" alt="Python" width="50" height="50" style="border-radius: 10px; margin: 5px;">
-  
-  <!-- Flutter -->
-  <img src="flutter.jpg" alt="Flutter" width="50" height="50" style="border-radius: 10px; margin: 5px;">
-  
-  <!-- .NET -->
-  <img src=".net.png" alt=".NET" width="50" height="50" style="border-radius: 10px; margin: 5px;">
-</p>
+&emsp;
+[![My ProgrammingSkills](https://skillicons.dev/icons?i=cpp,cs,dart,py,flutter,dotnet&perline=6)](https://skillicons.dev) 
 
 ## 📫 **Connect with Me**
 

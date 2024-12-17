@@ -47,7 +47,7 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/afiamaham/" target="_blank">
-    <img src="linkedin.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="linkedIn.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 5px;">
   </a>
   
   <!-- Gmail -->

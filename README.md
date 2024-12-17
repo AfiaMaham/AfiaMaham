@@ -52,7 +52,7 @@
   
   <!-- Gmail -->
   <a href="mailto:afiamaham08@gmail.com" target="_blank">
-    <img src="gmail.jpg" alt="Gmail" width="75" height="75" style="border-radius: 50%; margin: 5px;">
+    <img src="gmail.jpg" alt="Gmail" width="85" height="45" style="border-radius: 50%; margin: 5px;">
   </a>
 </p>
 

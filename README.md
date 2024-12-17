@@ -47,12 +47,12 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/afiamaham/" target="_blank">
-    <img src="linkedIn.png" alt="LinkedIn" width="70" height="70" style="border-radius: 100%; margin: 5px;">
+    <img src="linkedIn.png" alt="LinkedIn" width="75" height="75" style="border-radius: 100%; margin: 5px;">
   </a>
   
   <!-- Gmail -->
   <a href="mailto:afiamaham08@gmail.com" target="_blank">
-    <img src="gmail.jpg" alt="Gmail" width="50" height="50" style="border-radius: 50%; margin: 5px;">
+    <img src="gmail.jpg" alt="Gmail" width="75" height="75" style="border-radius: 50%; margin: 5px;">
   </a>
 </p>
 

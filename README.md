@@ -47,7 +47,6 @@
 <p align="center">
     <a href="https://github.com/AfiaMaham">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfiaMaham&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-    </a>
     <a href="https://github.com/AfiaMaham">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AfiaMaham&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>

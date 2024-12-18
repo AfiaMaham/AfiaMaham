@@ -46,8 +46,8 @@
 
 <p align="center">
     <a href="https://github.com/AfiaMaham">
-        <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfiaMaham&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-        <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AfiaMaham&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180px" width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AfiaMaham&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180px" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AfiaMaham&langs_count=12&layout=compact&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 

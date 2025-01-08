@@ -12,11 +12,11 @@
 ---
 
 ## 🌟 **About Me**
-- 🎓 I know **C++, C#, Dart** and currently learning **Python and DSA in C++**.
-- 💡 Worked with **Windows Forms, Flutter Frontend**, and **API Integration**.
-- 🛠️ Experienced with **SQL** for database management.
-- 🌐 Actively building projects and exploring **GitHub** for open-source contributions.
-- 💼 I am open to **collaborations**, **internships**, and **new opportunities**.
+-  I know **C++, C#, Dart** and currently learning **Python and DSA in C++**.
+-  Worked with **Windows Forms, Flutter Frontend**, and **API Integration**.
+-  Experienced with **SQL** for database management.
+-  Actively building projects and exploring **GitHub** for open-source contributions.
+-  I am open to **collaborations**, **internships**, and **new opportunities**.
 
 ---
 

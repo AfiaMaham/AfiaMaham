@@ -5,7 +5,7 @@
   <em>
      3rd Semester BS Software Engineering Student at National Textile University.<br/>
      Passionate about coding, problem-solving, and building user-friendly applications.<br/>
-     Learning Python, Data Structures, and Algorithms in C++.
+     Learning Python, Data Structures, and Algorithms.
   </em>
 </p>
 

@@ -15,7 +15,7 @@
 -  I know **C++, C#, Dart** and currently learning **Python and DSA**.
 -  Worked with **Windows Forms, Flutter Frontend**, and **API Integration**.
 -  Experienced with **SQL** for database management.
--  Actively building projects and exploring **GitHub** for open-source contributions.
+-  Actively building projects and exploring **GitHub** for open-source contributions
 -  I am open to **collaborations**, **internships**, and **new opportunities**.
 
 ---

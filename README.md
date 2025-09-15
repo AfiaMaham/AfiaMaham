@@ -37,7 +37,6 @@
 
 ## 🚀 **What I'm Working On**
 - 🌱 Improving my skills in **Data Structures and Algorithms**.
-- 🎯 Exploring **Flutter** for mobile app development.
 - 🔭 Building projects to expand my **portfolio**.
 
 ---

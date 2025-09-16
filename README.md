@@ -36,7 +36,6 @@
 ---
 
 ## 🚀 **What I'm Working On**
-- 🌱 Improving my skills in **Data Structures and Algorithms**.
 - 🔭 Building projects to expand my **portfolio**.
 
 ---

@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 **What I'm Working On**
-- 🔭 Building projects to expand my **portfolio**.
+- Building projects to expand my **portfolio**.
 
 ---
 

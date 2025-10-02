@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 
 &emsp;
 [![My ProgrammingSkills](https://skillicons.dev/icons?i=cpp,cs,dart,py,flutter,dotnet,sqlite&perline=7)](https://skillicons.dev) 

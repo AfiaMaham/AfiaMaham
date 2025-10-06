@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 **Statistics and Activity**
+##  **Statistics and Activity**
 
 <p align="center">
     <a href="https://github.com/AfiaMaham">

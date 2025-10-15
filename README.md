@@ -11,7 +11,7 @@
 
 ---
 
-##  **About Me**
+## **About Me**
 -  I know **C++, C#, Dart, Python and DSA**.
 -  Worked with **Windows Forms, Flutter Frontend**, and **API Integration**.
 -  Experienced with **SQL** for database management.

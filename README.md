@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-     3rd Semester BS Software Engineering Student at National Textile University.<br/>
+     5th Semester BS Software Engineering Student at National Textile University.<br/>
      Passionate about coding, problem-solving, and building user-friendly applications.<br/>
      Learning Python, Data Structures, and Algorithms.
   </em>

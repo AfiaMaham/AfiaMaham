@@ -1,5 +1,5 @@
 <!-- Afia Maham's Professional GitHub README -->
-<h1 align="center">👋 Hello, I'm Afia Maham</h1>
+<h1 align="center">👋  Hello, I'm Afia Maham</h1>
 
 <p align="center">
   <em>
